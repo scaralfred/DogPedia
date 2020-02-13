@@ -1,7 +1,7 @@
 # DogPedia (Available on the App Store & Google Play Store)
 A fun and interactive encyclopedia of Dogs Breeds for all the Dog Lovers.
 
-![alt text](https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-9/86287822_100982118160320_1640396062160060416_n.png?_nc_cat=101&_nc_ohc=DcKNJPwyeZIAX9tIG4-&_nc_ht=scontent.fmnl9-1.fna&oh=41309f3848bfce0c7b2f5009deb68cf3&oe=5F02A601)
+<img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-9/86287822_100982118160320_1640396062160060416_n.png?_nc_cat=101&_nc_ohc=DcKNJPwyeZIAX9tIG4-&_nc_ht=scontent.fmnl9-1.fna&oh=41309f3848bfce0c7b2f5009deb68cf3&oe=5F02A601" align="left" width="300" >
 
 App Store -> https://itunes.apple.com/us/app/currency-converter-icurrency/id1440368328
 
